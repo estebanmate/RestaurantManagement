@@ -1,9 +1,3 @@
-<%-- 
-    Document   : logout-modal
-    Created on : Oct 26, 2017, 9:32:39 PM
-    Author     : USER
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 
 <!-- Logout Modal-->
@@ -11,7 +5,7 @@
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
+                <h5 class="modal-title" id="exampleModalLabel">Ready to Exit?</h5>
                 <button class="close" type="button" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">×</span>
                 </button>

@@ -1,9 +1,3 @@
-<%-- 
-    Document   : OrderCustomer
-    Created on : Dec 24, 2017, 12:14:40 PM
-    Author     : HaHai
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -13,13 +7,13 @@
     </head>
    <body>
 
-<h2>Hello Nguyen Thi Thu Ha</h2>
+<h2>Hello Customer</h2>
  
 <table>
     
   <tr>
-    <th>Mã Sản Phẩm</th>
-    <th>Tên Sản Phẩm</th>
+    <th>Customer 1</th>
+    <th>Customer 2</th>
    
   </tr>
   <%List<Branch>dssanpham=(List<Branch>)request.getAttribute("branchlist");%>

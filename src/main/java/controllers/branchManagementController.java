@@ -34,7 +34,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 /**
  *
- * @author USER
+ * @author emtp
  */
 @Controller
 public class branchManagementController {

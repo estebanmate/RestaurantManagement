@@ -28,7 +28,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 /**
  *
- * @author hotha
+ * @author emtp
  */
 @Controller
 public class menuController {

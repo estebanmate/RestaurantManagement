@@ -1,9 +1,3 @@
-<%-- 
-    Document   : report-content
-    Created on : Oct 26, 2017, 9:25:57 PM
-    Author     : USER
---%>
-
 <%@page import="Entity.OrderBill"%>
 <%@page import="java.util.List"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

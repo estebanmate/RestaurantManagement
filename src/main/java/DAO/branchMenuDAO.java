@@ -14,7 +14,7 @@ import org.hibernate.Transaction;
 
 /**
  *
- * @author hotha
+ * @author emtp
  */
 public class branchMenuDAO {
     public static boolean createBranchMenu(BranchMenu bm) {

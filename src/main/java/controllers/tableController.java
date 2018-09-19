@@ -16,7 +16,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 /**
  *
- * @author hotha
+ * @author emtp
  */
 public class tableController {
     @RequestMapping(value = "/table", method = RequestMethod.POST)

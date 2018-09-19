@@ -1,21 +1,8 @@
-<%-- 
-    Document   : food-index-content
-    Created on : Oct 26, 2017, 9:31:32 PM
-    Author     : USER
---%>
-
 <%@page import="Entity.BranchMenu"%>
 <%@page import="Entity.Branch"%>
 <%@page import="Entity.Menu"%>
 <%@page import="java.util.List"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-
-<%-- 
-    Document   : food-index-content
-    Created on : Oct 26, 2017, 9:31:32 PM
-    Author     : USER
---%>
-
 
 <%@page import="Entity.DishDirectory"%>
 <%--<%@page contentType="text/html" pageEncoding="UTF-8"%>--%>

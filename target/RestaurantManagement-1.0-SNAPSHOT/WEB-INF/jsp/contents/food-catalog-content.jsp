@@ -1,8 +1,3 @@
-<%-- 
-    Document   : food-index-content
-    Created on : Oct 26, 2017, 9:31:32 PM
-    Author     : USER
---%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <c:set var="contextPath" value="${pageContext.request.contextPath}"/>
 <%@page import="Entity.Dish"%>

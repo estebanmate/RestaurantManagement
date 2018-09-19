@@ -1,10 +1,3 @@
-<%-- 
-    Document   : customerOrder
-    Created on : Dec 18, 2017, 12:40:41 PM
-    Author     : HaHai
---%>
-
-
 <%@page import="Entity.OrderBill"%>
 <%@page import="java.util.List"%>
 <%@page import="Entity.Branch"%>

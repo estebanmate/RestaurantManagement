@@ -1,13 +1,7 @@
-<%-- 
-    Document   : navbar
-    Created on : Oct 26, 2017, 5:40:57 PM
-    Author     : USER
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!-- Navigation-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
-    <a class="navbar-brand" href="/RestaurantManagement/home">Restaurant M@ster</a>
+    <a class="navbar-brand" href="/RestaurantManagement/home">Restaurant Management</a>
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -149,19 +143,19 @@
                     <a class="dropdown-item" href="#">
                         <strong>David Miller</strong>
                         <span class="small float-right text-muted">11:21 AM</span>
-                        <div class="dropdown-message small">Hey there! This new version of SB Admin is pretty awesome! These messages clip off when they reach the end of the box so they don't overflow over to the sides!</div>
+                        <div class="dropdown-message small">Message 1</div>
                     </a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="#">
                         <strong>Jane Smith</strong>
                         <span class="small float-right text-muted">11:21 AM</span>
-                        <div class="dropdown-message small">I was wondering if you could meet for an appointment at 3:00 instead of 4:00. Thanks!</div>
+                        <div class="dropdown-message small">Message 2</div>
                     </a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="#">
                         <strong>John Doe</strong>
                         <span class="small float-right text-muted">11:21 AM</span>
-                        <div class="dropdown-message small">I've sent the final files over to you for review. When you're able to sign off of them let me know and we can discuss distribution.</div>
+                        <div class="dropdown-message small">Message 3</div>
                     </a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item small" href="#">View all messages</a>
@@ -186,7 +180,7 @@
                                 <i class="fa fa-long-arrow-up fa-fw"></i>Status Update</strong>
                         </span>
                         <span class="small float-right text-muted">11:21 AM</span>
-                        <div class="dropdown-message small">This is an automated server response message. All systems are online.</div>
+                        <div class="dropdown-message small">Alert 1</div>
                     </a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="#">
@@ -195,7 +189,7 @@
                                 <i class="fa fa-long-arrow-down fa-fw"></i>Status Update</strong>
                         </span>
                         <span class="small float-right text-muted">11:21 AM</span>
-                        <div class="dropdown-message small">This is an automated server response message. All systems are online.</div>
+                        <div class="dropdown-message small">Alert 2</div>
                     </a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="#">
@@ -204,7 +198,7 @@
                                 <i class="fa fa-long-arrow-up fa-fw"></i>Status Update</strong>
                         </span>
                         <span class="small float-right text-muted">11:21 AM</span>
-                        <div class="dropdown-message small">This is an automated server response message. All systems are online.</div>
+                        <div class="dropdown-message small">Alert 3</div>
                     </a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item small" href="#">View all alerts</a>
@@ -224,7 +218,7 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link" data-toggle="modal" data-target="#exampleModal">
-                    <i class="fa fa-fw fa-sign-out"></i>Đăng xuất</a>
+                    <i class="fa fa-fw fa-sign-out"></i>Exit</a>
             </li>
         </ul>
     </div>

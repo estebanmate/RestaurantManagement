@@ -14,7 +14,7 @@ import org.hibernate.Transaction;
 
 /**
  *
- * @author HaHai
+ * @author emtp
  */
 public class customerDAO {
     public static java.util.List<Customer> getCustomerList() {

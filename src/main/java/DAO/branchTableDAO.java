@@ -14,7 +14,7 @@ import org.hibernate.Transaction;
 
 /**
  *
- * @author hotha
+ * @author emtp
  */
 public class branchTableDAO {
      public static boolean createBranchTable(BranchTable bt) {

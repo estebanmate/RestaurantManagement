@@ -1,9 +1,3 @@
-<%-- 
-    Document   : orderlineList
-    Created on : Dec 21, 2017, 3:45:12 AM
-    Author     : HaHai
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

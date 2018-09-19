@@ -13,7 +13,7 @@ import org.hibernate.Session;
 
 /**
  *
- * @author hotha
+ * @author emtp
  */
 public class menuDetailDAO {
      public static java.util.List<MenuDetail> getMenuDetailListByMenuId(int menuId) {

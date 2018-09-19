@@ -14,7 +14,7 @@ import org.hibernate.Transaction;
 
 /**
  *
- * @author hotha
+ * @author emtp
  */
 public class orderBillDAO {
     public static java.util.List<OrderBill> getOrderBillList(){

@@ -1,9 +1,3 @@
-<%-- 
-    Document   : food-index-content
-    Created on : Oct 26, 2017, 9:31:32 PM
-    Author     : USER
---%>
-
 <%@page import="Entity.Branch"%>
 <%@page import="java.util.List"%>
 <%@page import="Entity.DishDirectory"%>

@@ -22,7 +22,7 @@ import org.springframework.web.servlet.View;
 
 /**
  *
- * @author USER
+ * @author emtp
  */
 @Controller
 public class homeController {

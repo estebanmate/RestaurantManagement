@@ -14,7 +14,7 @@ import org.hibernate.Transaction;
 
 /**
  *
- * @author hotha
+ * @author emtp
  */
 public class menuDAO {
      public static java.util.List<Menu> getMenuList(){

@@ -13,7 +13,7 @@ import org.hibernate.Session;
 
 /**
  *
- * @author hotha
+ * @author emtp
  */
 public class dishDirectoryDAO {
      public static java.util.List<DishDirectory> getDishDirectoryList(){

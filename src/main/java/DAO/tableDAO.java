@@ -13,7 +13,7 @@ import org.hibernate.Session;
 
 /**
  *
- * @author hotha
+ * @author emtp
  */
 public class tableDAO {
     public static java.util.List<BranchTable> getBranchTableByBranchId(int branchId){
