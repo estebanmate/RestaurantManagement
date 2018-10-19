@@ -14,8 +14,8 @@
 	<properties>
 		<endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring.version>3.2.4.RELEASE</spring.version>
-		<security.version>3.1.4.RELEASE</security.version>
+		<spring.version>5.0.1.RELEASE</spring.version>
+		<security.version>5.0.1.RELEASE</security.version>
 	</properties>
 
 	<dependencies>
@@ -56,7 +56,7 @@
 			<scope>provided</scope>
 		</dependency>
 
-		<!-- Spring 3 -->
+		<!-- Spring 5 -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>
